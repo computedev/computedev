@@ -4,20 +4,20 @@
 **computedev/computedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!-- Introduce myself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+
+My name is Niranjan . I'm a Cloud Devops Engineer trying to  Level Up In Tech, . Interested in all things DevOps/Cloud Engineering; Python, AWS, Terraform, Ansible, Scripting, Containerization.
 Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on -->
-- 🌱 I’m currently learning - Devops and Coud
-- 👯 I’m looking to collaborate on Cloud 
-- 🤔 I’m looking for help with Devops 
+- 🌱 I’m currently learning - Devops and Cloud
+- 👯 I’m looking to collaborate on Cloud projects
+- 🤔 I’m looking for help with Devops on cloud 
 <!-- - 💬 Ask me about ... 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-My name is Niranjan . I'm a Cloud Devops Engineer trying to  Level Up In Tech, . Interested in all things DevOps/Cloud Engineering; Python, AWS, Terraform, Ansible, Scripting, Containerization.
 
 Find out more about me & feel free to connect with me here:
 
