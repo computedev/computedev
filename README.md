@@ -53,11 +53,13 @@ Find out more about me & feel free to connect with me here:
 <!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) -->
 <!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
 
+<!-- ![Gists](https://gists-readme.yizack.com/api?user=computedev) -->
+
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=computedev&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisAff84&hide=TeX&layout=compact)
-<!-- ![Gists](https://gists-readme.yizack.com/api?user=computedev) -->
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=computedev%computedev&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=computedev%computedev)
