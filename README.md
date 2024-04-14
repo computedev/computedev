@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src= https://github.com/computedev/computedev/assets/90862957/9a441ae2-20dc-44b5-a273-127ce52a5708 />
+</div>
+
+
+
+### Hi there 👋 ##
 
 <!--
 **computedev/computedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,8 +12,10 @@
 
 <!-- Introduce myself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-My name is Niranjan . I'm a Cloud Devops Engineer trying to  Level Up In Tech, . Interested in all things DevOps/Cloud Engineering; Python, AWS, Terraform, Ansible, Scripting, Containerization.
-Here are some ideas to get you started:
+My name is Niranjan . I'm a Cloud Devops Engineer trying to  Level Up In Tech. Interested in all things DevOps/Cloud Engineering; Python, AWS, Terraform, Ansible, Scripting, Containerization.
+Here are some ideas to get you started: 
+
+
 
 <!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning - Devops and Cloud
@@ -18,10 +26,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
+<div id="header" align="center">
+  <img src=https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F659e7ae3-907d-4918-9388-161e93a06f10_800x600.gif width="80%" height="350"/>
+</div>
+
+
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+<div id="header">
+  <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdjYnFodGd5ZzZteGcwZW82MjJlNDJycDh1aTJscTZlNWk3anV5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif width="50" />
+</div>
 
 [![Linkedin Badge](https://img.shields.io/badge/Niranjan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/niranjan-s/)](https://www.linkedin.com/in/niranjan-s/)
 [![Medium Badge](https://img.shields.io/badge/Niranjan-12100E?style=for-the-badge&logo=medium&logoColor=white&linkhttps://medium.com/@cloudeng)](https://medium.com/@cloudeng/)
@@ -56,10 +72,11 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=computedev&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=computedev&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisAff84&hide=TeX&layout=compact)
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=computedev%computedev&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=computedev%computedev)
+
 
